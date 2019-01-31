@@ -1,0 +1,9 @@
+name: flutter_svg_converter
+description: A new project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  path_parsing: ^0.1.3
